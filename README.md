@@ -292,7 +292,10 @@ ft-mixer-properties-emphasizer-dsp-task3/
 ├── .gitattributes
 ├── .gitignore
 └── README.md
+```
+
 # Contributors <a name="contributors"></a>
+
 <table align="center">
   <tr>
     <td align="center">
