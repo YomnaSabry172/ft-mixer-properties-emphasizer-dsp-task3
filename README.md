@@ -9,7 +9,7 @@
 
 **An interactive web platform for exploring 2D Fourier Transform concepts through visual mixing and property demonstration.**
 
-*DSP Task 3 — Team 10 | Cairo University, Biomedical Engineering*
+*DSP Task 3 | Cairo University, Biomedical Engineering*
 
 </div>
 
